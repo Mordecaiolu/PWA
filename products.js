@@ -33,7 +33,7 @@ let products = [
       "price": 7.99,
       "image": "images/cat-house.jpg",
       "availableInventory": 11,
-      "rating": 5
+      "rating": 6
     },
     {
       "id": 1005,
